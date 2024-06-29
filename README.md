@@ -22,26 +22,27 @@ Project Title: Jitta Ranking App with GraphQL
 
 2. GraphQL integration : https://asia-east2-jitta-api.cloudfunctions.net/graphqlDev
 
-3. How to run app :`
-1.start with android studio run mode debug or run.
-2.you can enjoy app thank you.
-
-4. third-party dependencies:
-graphql_flutter: ^5.1.2
-dio: ^4.0.6
-get: ^4.6.5
-get_storage: ^2.0.3
-flutter_easyloading: ^3.0.5
-font_awesome_flutter: ^10.2.1`
-connectivity_plus: ^5.0.2
-oktoast: ^3.4.0
-intl: 0.19.0
-url_launcher: ^6.2.4
-syncfusion_flutter_charts: ^25.2.7
-mockito: ^5.4.2
-third-party dev_dependencies:
-flutter_lints: ^2.0.0
-build_runner: ^2.4.6
+3. how to run app android device :`
+   1.start with android studio.
+   2.open simulator android device  > run mode debug or run > run app.
+4. how to run app ios device
+   1.start with xcode open ios folder.
+   2.open simulator ios device > run app on xcode.
+5. how to release android app
+   1.you can build app > open android studio > build > flutter > build apk
+   2.run apk on device
+6. how to release ios app
+   1.Use the terminal to navigate to the meaflutter app directory.
+        Run the command flutter clean and wait for it to complete.
+        Run the command flutter pub get and wait for it to complete.
+   2.Use the terminal to navigate to the ios directory within the meaflutter app directory:
+        Run the command cd ios.
+        Run the command pod install.
+   3.Use the terminal to navigate back to the meaflutter app directory:
+        Run the command cd .. and then flutter build ios --release.
+   4.Open Xcode:
+        Select Product from the toolbar and choose Clean Build Folder....
+   5.Select Product from the toolbar and choose Archive.
 
 Documentation: JittaAPP
 https://1drv.ms/x/c/0718df5c9f8b8d1c/ETCxZwJUbp1JnpNaayINu4MByvzONn6mxXtlTiIsw-X5Cw?e=BRbPKw
