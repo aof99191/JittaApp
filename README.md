@@ -43,6 +43,14 @@ third-party dev_dependencies:
 flutter_lints: ^2.0.0
 build_runner: ^2.4.6
 
+Documentation: JittaAPP
+https://1drv.ms/x/c/0718df5c9f8b8d1c/ETCxZwJUbp1JnpNaayINu4MByvzONn6mxXtlTiIsw-X5Cw?e=BRbPKw
+
+Refer :
+https://jitta.notion.site/Programming-Project-Mobile-Engineer-a9e3b6938bc24000b90c1001235d56bd
+https://hygraph.com/blog/flutter-graphql#graphql-in-flutter
+https://medium.com/flutter-community/building-a-simple-application-with-flutter-and-graphql-5786764df102
+https://www.yourteaminindia.com/tech-insights/flutter-and-graphql-integration
 
 
 
