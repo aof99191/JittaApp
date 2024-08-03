@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 Project Title: Jitta Ranking App with GraphQL
 1. project architecture with MVVM
 
-2. GraphQL integration : https://asia-east2-jitta-api.cloudfunctions.net/graphqlDev
+2. GraphQL integration 
 
 3. how to run app android device :`
    1.start with android studio.
@@ -45,7 +45,7 @@ Project Title: Jitta Ranking App with GraphQL
    5.Select Product from the toolbar and choose Archive.
 
 Documentation: JittaAPP
-https://1drv.ms/x/c/0718df5c9f8b8d1c/ETCxZwJUbp1JnpNaayINu4MByvzONn6mxXtlTiIsw-X5Cw?e=BRbPKw
+https://1drv.ms/x/c/0718df5c9f8b8d1c/ETCxZwJUbp1JnpNaayINu4MB9hKUUXcsgxj3JJgEs37bKQ?e=WcoDMN
 
 Refer :
 https://hygraph.com/blog/flutter-graphql#graphql-in-flutter
