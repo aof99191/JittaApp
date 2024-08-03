@@ -45,7 +45,7 @@ Project Title: Jitta Ranking App with GraphQL
    5.Select Product from the toolbar and choose Archive.
 
 Documentation: JittaAPP
-https://1drv.ms/x/c/0718df5c9f8b8d1c/ETCxZwJUbp1JnpNaayINu4MB9hKUUXcsgxj3JJgEs37bKQ?e=WcoDMN
+https://1drv.ms/x/c/0718df5c9f8b8d1c/ETCxZwJUbp1JnpNaayINu4MB9hKUUXcsgxj3JJgEs37bKQ
 
 Refer :
 https://hygraph.com/blog/flutter-graphql#graphql-in-flutter
